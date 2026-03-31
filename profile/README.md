@@ -10,6 +10,8 @@ Cybersecurity compliance automation, framework mapping, and security assessment 
 
 ![Stars](https://img.shields.io/github/stars/Galvnyz/M365-Assess?style=flat-square&color=555)
 ![Language](https://img.shields.io/github/languages/top/Galvnyz/M365-Assess?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Galvnyz/M365-Assess?style=flat-square)
+![License](https://img.shields.io/github/license/Galvnyz/M365-Assess?style=flat-square)
 
 Read-only Microsoft 365 security assessment for IT consultants and administrators. No agents, no write access — just a clean PowerShell report.
 
@@ -17,6 +19,8 @@ Read-only Microsoft 365 security assessment for IT consultants and administrator
 
 ![Stars](https://img.shields.io/github/stars/Galvnyz/Az-Stamper?style=flat-square&color=555)
 ![Language](https://img.shields.io/github/languages/top/Galvnyz/Az-Stamper?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Galvnyz/Az-Stamper?style=flat-square)
+![License](https://img.shields.io/github/license/Galvnyz/Az-Stamper?style=flat-square)
 
 Automatically stamps Azure resources with creator identity and configurable metadata tags via Event Grid-triggered Azure Function.
 

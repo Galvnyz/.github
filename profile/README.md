@@ -34,7 +34,6 @@ Automatically stamps Azure resources with creator identity and configurable meta
 | [GPOBaselineForge](https://github.com/Galvnyz/GPOBaselineForge) | Parse Microsoft security baselines and generate Intune custom compliance packages |
 | [IntuneSCT-Compliance](https://github.com/Galvnyz/IntuneSCT-Compliance) | Ready-to-deploy Intune compliance packages from Microsoft SCT baselines |
 | [CheckID](https://github.com/Galvnyz/CheckID) | Universal check identifier system for cross-framework security control mapping |
-| [TaskSchedulerRepair](https://github.com/Galvnyz/TaskSchedulerRepair) | Windows 11 Task Scheduler diagnostic and repair for Intune and Windows Update failures |
 
 ---
 

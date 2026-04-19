@@ -13,7 +13,7 @@ Cybersecurity compliance automation, framework mapping, and security assessment 
 ![Last Commit](https://img.shields.io/github/last-commit/Galvnyz/M365-Assess?style=flat-square)
 ![License](https://img.shields.io/github/license/Galvnyz/M365-Assess?style=flat-square)
 
-Read-only Microsoft 365 security assessment for IT consultants and administrators. No agents, no write access — just a clean PowerShell report.
+274 automated checks across 14 compliance frameworks. Interactive HTML report with 3 color themes — no agents, no write access, no data leaves your machine. Now on v2.0.
 
 ### [Az-Stamper](https://github.com/Galvnyz/Az-Stamper)
 
